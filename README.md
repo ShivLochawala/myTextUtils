@@ -1,3 +1,7 @@
+# About Project [What kind of features are provided]
+
+myTextUtils will help you to convert your text into Upper Case, Lower Case, Capitalized Case, Copy Text on Clipboard, Remove extra space, word counter, character counter, how much time you need to read text and preview of text. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
